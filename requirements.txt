@@ -1,0 +1,15 @@
+pandas
+numpy
+jupyter
+scikit-learn
+matplotlib
+seaborn
+nltk
+stanza
+transformers
+torch
+networkx
+bertopic
+wordcloud
+langdetect
+tqdm
